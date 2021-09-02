@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arduino + JavaScript</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      border: none;
+      outline: none;
+      font-family: monospace;
+    }
+
+    body {
+      background-color: cornflowerblue;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+
+    main {
+      background-color: #fff;
+      border-radius: 8px;
+      padding: 20px;
+      width: 320px;
+      text-align: center;
+    }
+
+    h1 {
+      margin-bottom: 20px;
+    }
+
+    button {
+      width: 150px;
+      height: 150px;
+      margin-top: 10px;
+      border-radius: 50%;
+      font-weight: bold;
+      color: #fff;
+      font-size: 1.8em;
+    }
+
+    .acender {
+      background-color: darkblue;
+    }
+
+    .apagar {
+      background-color: darkred;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Controle de um led</h1>
+    <section>
+      {% if acender %}
+        {% include "partials/acender.html" %}
+      {% else %}
+        {% include "partials/apagar.html" %}
+      {% endif %}
+    </section>
+  </main>
+</body>
+</html>

@@ -1,5 +1,4 @@
 const express = require('express')
-
 const { index, acender, apagar } = require('./controller.js')
 
 const routes = express.Router()
