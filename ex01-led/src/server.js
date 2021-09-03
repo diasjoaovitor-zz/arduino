@@ -15,7 +15,7 @@ server.use(routes)
 
 const board = new five.Board();
 board.on("ready", () => {
-  server.listen(3000, () => {
-    console.log("> Acessar: http://localhost:3000")
+  server.listen(3001, () => {
+    console.log("> Acessar: http://localhost:3001")
   })
 })
