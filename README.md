@@ -36,7 +36,7 @@ Os projetos desse repositório, utlizam a biblioteca [Johnny Five](http://johnny
   $ git clone https://github.com/diasjoaovitor/arduino.git
 ````
 
- O circuito está especificado no _Readme_ presente em cada pasta do projeto. Após fazer a montagem do circuito, basta seguir o seguintes passos:
+ O circuito está especificado no _Readme_ presente em cada pasta de um projeto. Após fazer a montagem do circuito, basta seguir o seguintes passos:
  
 * Entre na pasta do projeto escolhido:
 
