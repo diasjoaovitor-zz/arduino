@@ -1,0 +1,13 @@
+{
+  "name": "ex02-potenciometro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "johnny-five": "^2.1.0"
+  }
+}
