@@ -2,6 +2,7 @@
 
 * [Projeto 1: Acender e desligar um led](https://github.com/diasjoaovitor/arduino/tree/main/ex01-led) 
 * [Projeto 2: Potenciômetro](https://github.com/diasjoaovitor/arduino/tree/main/ex02-potenciometro) 
+* [Projeto 3: Display LCD](https://github.com/diasjoaovitor/arduino/tree/main/ex03-display) 
 
 ## Ferramentas
 
