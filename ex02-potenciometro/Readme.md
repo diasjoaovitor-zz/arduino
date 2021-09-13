@@ -1,4 +1,4 @@
-## Projeto receber dados de um potenciômetro
+## Projeto potenciômetro
 
 ## Componentes
 
@@ -9,4 +9,4 @@
 
 ## Circuito
 
-![ciruito](https://github.com/diasjoaovitor/arduino/blob/main/.github/ex02-petenciometro.png)
+![ciruito](https://github.com/diasjoaovitor/arduino/blob/main/.github/ex02-potenciometro.png)
