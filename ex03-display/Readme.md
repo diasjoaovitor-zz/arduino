@@ -1,4 +1,4 @@
-## Projeto potenciômetro
+## Projeto Display LCD
 
 ## Componentes
 
